@@ -1,0 +1,8 @@
+C:/Users/Asus TUF Gaming/Desktop/UNAM/ProyFarm/lukiducuaProyecto-main/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus TUF Gaming/Desktop/UNAM/ProyFarm/lukiducuaProyecto-main/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Asus TUF Gaming/Desktop/UNAM/ProyFarm/lukiducuaProyecto-main/out/build/x64-Debug/CGALib/CMakeFiles/CGALib.dir
+C:/Users/Asus TUF Gaming/Desktop/UNAM/ProyFarm/lukiducuaProyecto-main/out/build/x64-Debug/CGALib/CMakeFiles/edit_cache.dir
+C:/Users/Asus TUF Gaming/Desktop/UNAM/ProyFarm/lukiducuaProyecto-main/out/build/x64-Debug/CGALib/CMakeFiles/rebuild_cache.dir
+C:/Users/Asus TUF Gaming/Desktop/UNAM/ProyFarm/lukiducuaProyecto-main/out/build/x64-Debug/14-Pacman/CMakeFiles/14-Pacman.dir
+C:/Users/Asus TUF Gaming/Desktop/UNAM/ProyFarm/lukiducuaProyecto-main/out/build/x64-Debug/14-Pacman/CMakeFiles/edit_cache.dir
+C:/Users/Asus TUF Gaming/Desktop/UNAM/ProyFarm/lukiducuaProyecto-main/out/build/x64-Debug/14-Pacman/CMakeFiles/rebuild_cache.dir

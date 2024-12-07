@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "CGALib",
+					"jsonFile" : "directory-CGALib-Debug-c25a36b81c9fe6cb6742.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "CGALib",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "14-Pacman",
+					"jsonFile" : "directory-14-Pacman-Debug-07a40a98f9ffc92be2eb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "14-Pacman",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "CGA",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "14-Pacman::@8d129472dfc3a3466c9c",
+					"jsonFile" : "target-14-Pacman-Debug-7a3e4c024fe960bd2abd.json",
+					"name" : "14-Pacman",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "CGALib::@1a9f62cd0483ef4537e7",
+					"jsonFile" : "target-CGALib-Debug-be06e8c8d4d1548aeeb6.json",
+					"name" : "CGALib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Asus TUF Gaming/Desktop/UNAM/ProyFarm/lukiducuaProyecto-main/out/build/x64-Debug",
+		"source" : "C:/Users/Asus TUF Gaming/Desktop/UNAM/ProyFarm/lukiducuaProyecto-main"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
